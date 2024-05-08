@@ -1,8 +1,5 @@
 package internal
 
-// TODO:
-// 1. в newAnChat считать всех юзеров
-// 2. confirm_sex - сохранение пола в БД
 import (
 	"fmt"
 	"strconv"
